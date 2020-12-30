@@ -1,4 +1,4 @@
-![Build](https://github.com/1C-Company/ssl-support/workflows/CI/badge.svg)
+![Build](https://github.com/1C-Company/ssl-support/workflows/CI/badge.svg) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=marmyshev_ssl-support&metric=alert_status)](https://sonarcloud.io/dashboard?id=marmyshev_ssl-support) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=marmyshev_ssl-support&metric=coverage)](https://sonarcloud.io/dashboard?id=marmyshev_ssl-support) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=marmyshev_ssl-support&metric=ncloc)](https://sonarcloud.io/dashboard?id=marmyshev_ssl-support)
 
 # 1C:SSL support for 1C:EDT
 
